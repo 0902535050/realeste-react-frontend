@@ -1,0 +1,1 @@
+export const SuggestionDescription = '- Sở hữu (chính chủ/môi giới):\n\n- Giấy tờ (Sổ hồng riêng/giấy tay/sổ hồng chung):\n\n- Đường trước nhà (mặt tiền/hẻm xe hơi):\n\n- Tiện ích xung quanh (chợ, bệnh viện, khu vui chơi, mua sắm) và khoảng cách: '
